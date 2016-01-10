@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant.Core", "Restaurant.Core\Restaurant.Core.csproj", "{1B471B10-B1CC-445A-B561-727287BE7E33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Restaurant.iOS", "Restaurant.iOS\Restaurant.iOS.csproj", "{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,5 +27,17 @@ Global
 		{1B471B10-B1CC-445A-B561-727287BE7E33}.Release|iPhone.Build.0 = Release|Any CPU
 		{1B471B10-B1CC-445A-B561-727287BE7E33}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{1B471B10-B1CC-445A-B561-727287BE7E33}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Release|Any CPU.Build.0 = Release|iPhone
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Release|iPhone.Build.0 = Release|iPhone
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{5209BF87-1BE8-46C5-AFCE-E6BFB89C5CBE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
 	EndGlobalSection
 EndGlobal
